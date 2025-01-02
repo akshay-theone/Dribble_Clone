@@ -716,6 +716,7 @@ body {
     width: 90%;
     margin: 20px auto;
     justify-content: space-between;
+    align-items: center;
   }
   .nav1 {
     display: none;
